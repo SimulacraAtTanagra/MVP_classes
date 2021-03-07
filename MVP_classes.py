@@ -74,3 +74,4 @@ class stage1():
 if __name__=="__main__":
     x=stage(Number=1,Assembly=True,Repair=True,Material=0)
     x.print_props()
+    
